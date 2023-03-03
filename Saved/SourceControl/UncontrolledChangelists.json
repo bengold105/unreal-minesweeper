@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Work Stuff/GemLabyrinth Template/Content/Students/RenameToYourID/RenameMe.umap",
+				"D:/Work Stuff/GemLabyrinth Template/Content/Students/RenameToYourID/glFloor.uasset",
+				"D:/Work Stuff/GemLabyrinth Template/Content/Students/RenameToYourID/_GENERATED/doxd/Rectangle_D2D3BA34.uasset",
+				"D:/Work Stuff/GemLabyrinth Template/Content/GemLabyrinth/glTeleport.uasset",
+				"D:/Work Stuff/GemLabyrinth Template/Content/GemLabyrinth/glSuperPlate.uasset",
+				"D:/Work Stuff/GemLabyrinth Template/Content/GemLabyrinth/glQuitPlate.uasset",
+				"D:/Work Stuff/GemLabyrinth Template/Content/GemLabyrinth/glSuccessPlate.uasset",
+				"D:/Work Stuff/GemLabyrinth Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/R6/9PI7FXYYQWPREA89V5LNO0.uasset",
+				"D:/Work Stuff/GemLabyrinth Template/Content/GemLabyrinth/glTester.uasset",
+				"D:/Work Stuff/GemLabyrinth Template/Content/StarterContent/Architecture/SM_AssetPlatform.uasset",
+				"D:/Work Stuff/GemLabyrinth Template/Content/GemLabyrinth/glHUD.uasset",
+				"D:/Work Stuff/GemLabyrinth Template/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/Work Stuff/GemLabyrinth Template/Content/GemLabyrinth/glGameInstance.uasset",
+				"D:/Work Stuff/GemLabyrinth Template/Content/Minigames/RenameToYourID/RenameMe.umap",
+				"D:/Work Stuff/GemLabyrinth Template/Content/Minigames/RenameToYourID/glFloor.uasset",
+				"D:/Work Stuff/GemLabyrinth Template/Content/Minigames/RenameToYourID/_GENERATED/doxd/Rectangle_D2D3BA34.uasset",
+				"D:/Work Stuff/GemLabyrinth Template/Content/Students/00_Template/_GENERATED/doxd/Rectangle_D2D3BA34.uasset",
+				"D:/Work Stuff/GemLabyrinth Template/Content/Students/00_Template/glFloor.uasset",
+				"D:/Work Stuff/GemLabyrinth Template/Content/Students/00_Template/RenameMe.umap",
+				"D:/Work Stuff/GemLabyrinth/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Work Stuff/GemLabyrinth/Content/Students/00_Template/RenameMe.umap",
+				"D:/Work Stuff/GemLabyrinth/Content/GemLabyrinth/glGameInstance.uasset",
+				"D:/Work Stuff/GemLabyrinth/Content/GemLabyrinth/glTeleport.uasset",
+				"D:/Work Stuff/GemLabyrinth/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/R6/9PI7FXYYQWPREA89V5LNO0.uasset",
+				"D:/Work Stuff/GemLabyrinth/Content/GemLabyrinth/glTester.uasset",
+				"D:/Work Stuff/GemLabyrinth/Content/GemLabyrinth/glQuitPlate.uasset",
+				"D:/Work Stuff/GemLabyrinth/Content/GemLabyrinth/glSuccessPlate.uasset",
+				"D:/Work Stuff/GemLabyrinth/Content/GemLabyrinth/glSuperPlate.uasset",
+				"D:/Work Stuff/GemLabyrinth/Content/ThirdPerson/Input/Actions/IA_Cheat.uasset",
+				"D:/Work Stuff/GemLabyrinth/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Work Stuff/GemLabyrinth/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Work Stuff/GemLabyrinth/Content/ThirdPerson/Input/Actions/IA_Fail.uasset",
+				"D:/Work Stuff/GemLabyrinth/Content/ThirdPerson/Input/Actions/IA_Quit.uasset",
+				"D:/Work Stuff/GemLabyrinth/Content/ThirdPerson/Input/Actions/IA_Succeed.uasset",
+				"D:/Work Stuff/GemLabyrinth/Content/ThirdPerson/Input/Actions/IA_Super.uasset",
+				"D:/Work Stuff/GemLabyrinth/Content/Students/00_Template/glFloor.uasset",
+				"D:/Work Stuff/GemLabyrinth/Content/Students/00_Template/_GENERATED/doxd/Rectangle_D2D3BA34.uasset"
+			]
+		}
+	]
+}
