@@ -16,7 +16,7 @@ Part of a metagame project, this minigame is a recreation of minesweeper in a 3D
 --------------------------
 
 <p align="center">
-  <img src="https://github.com/bengold105/unreal-minesweeper/blob/main/gifs/minesweepe3.gif" alt="gif3" />
+  <img src="https://github.com/bengold105/unreal-minesweeper/blob/main/gifs/minesweeper3.gif" alt="gif3" />
 </p>
 
 --------------------------
